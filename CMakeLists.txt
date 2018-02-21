@@ -7,4 +7,4 @@ add_compile_options(-std=c++14)
 add_compile_options(-Wall)
 add_compile_options(-Werror)
 
-add_executable(2_1.out Main.cpp)
+add_executable(1_1.out main.cpp)
